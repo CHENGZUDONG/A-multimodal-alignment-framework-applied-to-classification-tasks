@@ -47,6 +47,6 @@ Due to hardware limitations during development, the framework is designed to all
 3. Open the model.ipynb file and integrate the pre-trained parameters into your workflow.
 
 4. Customize the parameters or datasets as needed by following the instructions in bert+vit.ipynb.
-5. 
-Citation
+
+5. Citation
 If you use this framework or dataset in your research, please cite the corresponding paper. Details about the paper and dataset references can be found in the repository.
